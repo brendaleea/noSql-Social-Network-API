@@ -9,12 +9,13 @@ This API for a social network web application that allows users to share their t
 
 ## Visuals
 
-![noSql-Social-Network-API](./Assets/)
+![noSql-Social-Network-API](./assets/screenshot.png)
 
 
 GitHub Repo Link: https://github.com/brendaleea/noSql-Social-Network-API
 
-Video Link : COMING SOON...
+Video Link : https://drive.google.com/file/d/1c-1xh5n6MrO_5weujMO-fYsj9NPF1B_1/view
+
 
 
 
@@ -23,8 +24,7 @@ Video Link : COMING SOON...
 This project was created using JS,Express.js API, MongoDB, NoSQL database
 
 ## Install instructions & Steps
-1. npm run seed
-2. npm run start
+1. node.index.js
 
 ## Support
 If you have any questions please feel free to contact me via slack 
